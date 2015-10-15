@@ -1,0 +1,4 @@
+See file:///Users/marthaelena/AndroidStudioProjects/Teapot/app/build/tmp/linkArmeabi-v7aDebugArm7TeapotNativeActivitySharedLibrary/output.txt for all output for linkArmeabi-v7aDebugArm7TeapotNativeActivitySharedLibrary.
+linking libTeapotNativeActivity.so successful.
+
+Finished linkArmeabi-v7aDebugArm7TeapotNativeActivitySharedLibrary, see full log file:///Users/marthaelena/AndroidStudioProjects/Teapot/app/build/tmp/linkArmeabi-v7aDebugArm7TeapotNativeActivitySharedLibrary/output.txt.

@@ -1,0 +1,71 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml:1:1-33:12
+	xmlns:android
+		ADDED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml:1:11-69
+	package
+		ADDED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml:2:11-38
+		INJECTED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml:4:11-36
+	android:versionCode
+		ADDED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml:3:11-34
+		INJECTED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml:6:3-65
+	android:glEsVersion
+		ADDED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml:6:17-49
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml:7:3-95
+	android:name
+		ADDED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml:7:20-76
+application
+ADDED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml:9:3-32:17
+	android:supportsRtl
+		ADDED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml:12:7-33
+	android:label
+		ADDED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml:14:7-39
+	android:allowBackup
+		ADDED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml:10:7-34
+	android:icon
+		ADDED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml:13:7-41
+	android:theme
+		ADDED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml:15:7-38
+	android:name
+		ADDED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml:16:7-57
+	android:fullBackupContent
+		ADDED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml:11:7-40
+activity#com.sample.teapot.TeapotNativeActivity
+ADDED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml:21:5-31:16
+	android:label
+		ADDED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml:22:15-47
+	android:configChanges
+		ADDED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml:23:15-65
+	android:name
+		ADDED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml:21:15-68
+meta-data#android.app.lib_name
+ADDED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml:25:7-26:57
+	android:name
+		ADDED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml:25:18-53
+	android:value
+		ADDED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml:26:18-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml:27:7-30:23
+action#android.intent.action.MAIN
+ADDED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml:28:9-61
+	android:name
+		ADDED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml:28:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml:29:9-69
+	android:name
+		ADDED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml:29:19-66
+uses-sdk
+INJECTED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/marthaelena/AndroidStudioProjects/Teapot/app/src/main/AndroidManifest.xml
